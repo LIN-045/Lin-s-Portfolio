@@ -1,2 +1,2 @@
-# Lin-s-Portfolio
+# Lins-Portfolio
 Data Analytics Portfolio
